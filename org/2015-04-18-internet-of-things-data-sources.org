@@ -1,0 +1,16 @@
+#+BEGIN_HTML
+---
+layout: post
+title: Internet of Things (IoT) Data Sources
+date: 2015-04-18
+summary: This blog lists publicly available data sources for Internet of Things
+tags: [ioT, sensor data]
+---
+#+END_HTML
+
+| *Source*        | *Description*                                                                                                        |
+| [[http://www.kaggle.com/competitions][Kaggle]]          | A predictive modeling and analytics platform where companies and researchers post their data for open competition.   |
+| [[http://map.datacanvas.org/][Sense Your City]] | This [[http://datacanvas.org/][Data Canvas]] project provides access to raw data from environmental sensor nodes deployed to a number of cities. |
+| [[http://airqualityegg.com/][Air Quality Egg]] | A community-led network of air quality sensors.                                                                      |
+| [[https://data.sparkfun.com/streams/][Data.Sparkfun]]   | Public data streams of various connected sensors                                                                     |
+

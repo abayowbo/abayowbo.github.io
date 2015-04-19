@@ -1,0 +1,3 @@
+* Internet of Things (IoT) Data Sources
+* spark parallelize and scikit-learn experiment
+** experiment with  http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html#example-applications-face-recognition-py
