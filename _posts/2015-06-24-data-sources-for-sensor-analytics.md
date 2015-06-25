@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Internet of Things (IoT) Data Sources
-date: 2015-04-18
-summary: This blog lists publicly available data sources for Internet of Things
-tags: [ioT, sensor data]
+title: Data Sources for Sensor Analytics
+date: 2015-06-24
+categories: 
+-
+author: abayowbo
+excerpt: This blog lists publicly available data sources for sensor data analytics
 ---
-
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 

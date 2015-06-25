@@ -1,12 +1,12 @@
-#+BEGIN_HTML
----
-layout: post
-title: Internet of Things (IoT) Data Sources
-date: 2015-04-18
-summary: This blog lists publicly available data sources for Internet of Things
-tags: [ioT, sensor data]
----
-#+END_HTML
+#+LAYOUT: post
+#+TITLE: Data Sources for Sensor Analytics
+#+DATE: <2015-06-24 Wed>
+#+AUTHOR: abayowbo
+#+OPTIONS:
+#+CATEGORIES: 
+#+TAGS: sensor data, sensor data analytics, ioT
+#+DESCRIPTION: This blog lists publicly available data sources for sensor data analytics
+#+STARTUP: indent
 
 | *Source*        | *Description*                                                                                                        |
 | [[http://www.kaggle.com/competitions][Kaggle]]          | A predictive modeling and analytics platform where companies and researchers post their data for open competition.   |
